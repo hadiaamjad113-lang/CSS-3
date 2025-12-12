@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Freckle+Face&display=swap');
+.first-para{
+text-align: center;
+text-decoration: underline;
+color: rgb(4, 4, 173);
+}
+.second-para{
+font-family: "Freckle Face", system-ui;
+}
+.third-para{
+font-family: "Cedarville Cursive", cursive;
+}
+.fourth-para{
+text-shadow: 1.3px 1.3px  rgb(150, 149, 149) ;
+}
+
+
